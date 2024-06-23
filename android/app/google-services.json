@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186645994478",
+    "project_id": "mindmover-13852",
+    "storage_bucket": "mindmover-13852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186645994478:android:f00fd09bf3f2096147ccff",
+        "android_client_info": {
+          "package_name": "com.example.eeg_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRxgqOyQY0iT83RDo-yDZBvtxiBVQpCZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
