@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   my_plugin:
-    path:  C:/Users/ANONYMOUS/Desktop/EEG_App/eeg_application/my_plugin
+    path:  ../
   cupertino_icons: ^1.0.6
 
 dev_dependencies:
